@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/Piiiyuuu_sh" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style" alt="Twitter Follow" />
   </a>
 </p>
