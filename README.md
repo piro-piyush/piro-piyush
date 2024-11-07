@@ -2,13 +2,14 @@
     <h1 style="display: flex; justify-content: space-between; align-items: center;">
   💫 About Me:
   <img src="https://komarev.com/ghpvc/?username=piro-piyush&label=Profile%20views&color=0e75b6&style=flat" alt="piro-piyush" />
+<!--         [![Instagram](https://komarev.com/ghpvc/?username=piro-piyush&label=Profile%20views&color=0e75b6&style=flat)] -->
 </h1>
   <div style="display: flex; justify-content: space-between; align-items: center; height: 100px;">
     <div>
       🌱 I'm currently learning Flutter and Dart.</br>
-      ❓ Ask me about anything related to the MERN stack and related technologies.</br>
+      ❓ Ask me about anything related to Flutter and its ecosystem.</br>
       📫 How to reach me: piyush72717272@gmail.com.</br>
-      <span>⚡ Fun fact: I use tabs over spaces.</span>
+      ⚡ Fun fact: "Debugging" is like being a detective in a crime movie where you are also the murderer. 😅
 <!--     </div>
     <img src="https://www.cutecatgifs.com/wp-content/uploads/2021/02/wow.gif" alt="Wow Cat GIF" style="height: 100%; width: auto;">
 </div> -->
