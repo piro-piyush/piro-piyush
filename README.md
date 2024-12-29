@@ -38,6 +38,9 @@
 <div style="display: flex; justify-content: flex-end; width: 100%; align-items: center;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote" style="max-width: 100%; height: auto;" />
 </div>
+
+## 😂 Random Dev Meme
+<img src="https://random-memer-sigma.vercel.app/" width="512px"/>
   
 ## ✨ Watch my GitHub contributions devoured by the snake!
 <picture style="width: 100%; height: auto;">
